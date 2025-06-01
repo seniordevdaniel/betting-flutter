@@ -2,10 +2,6 @@
 
 Flutter based Sports Bet App UI
 
-## Demo
-Demo available on YouTube.
-
-Link: https://youtu.be/8GBCiwqmyiA
 
 ## Screenshot
 
